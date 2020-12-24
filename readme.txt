@@ -1,3 +1,4 @@
+no fast forward
 master
 dev
 测试merge
