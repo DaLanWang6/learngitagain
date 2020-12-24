@@ -1,3 +1,4 @@
+fast forward
 no fast forward
 master
 dev
